@@ -16,11 +16,11 @@ Project scenario consists of examining my organization’s data in our "employee
 
 <p align="center">
 Retrieve after hours failed login attempts: <br/>
-<img src="https://i.imgur.com/m79j2gZ.png" height="80%" width="80%" alt="SQL steps"/>
+<img src="https://i.imgur.com/NyKuPtF.png" height="80%" width="80%" alt="SQL steps"/>
 <br />
 <br />
 Retrieve login attempts on specific dates:  <br/>
-<img src="https://i.imgur.com/DVnhabG.png" height="80%" width="80%" alt="SQL steps"/>
+<img src="https://i.imgur.com/uDMEJ8P.png" height="80%" width="80%" alt="SQL steps"/>
 <br />
 <br />
 Retrieve login attempts outside of Mexico: <br/>
@@ -32,11 +32,11 @@ Retrieve employees in Marketing:  <br/>
 <br />
 <br />
 Retrieve employees in Finance or Sales:  <br/>
-<img src="https://i.imgur.com/NPeQcL3.png" height="80%" width="80%" alt="SQL steps"/>
+<img src="https://i.imgur.com/zVrZdv4.png" height="80%" width="80%" alt="SQL steps"/>
 <br />
 <br />
 Retrieve all employees not in IT:  <br/>
-<img src="https://i.imgur.com/d2TBQTy.png" height="80%" width="80%" alt="SQL steps"/>
+<img src="https://i.imgur.com/IbCQp8e.png" height="80%" width="80%" alt="SQL steps"/>
 <br />
 <br />
 Summary:  <br/>
