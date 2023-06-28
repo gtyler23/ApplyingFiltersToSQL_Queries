@@ -24,11 +24,11 @@ Retrieve login attempts on specific dates:  <br/>
 <br />
 <br />
 Retrieve login attempts outside of Mexico: <br/>
-<img src="https://i.imgur.com/3xTz1M5.png" height="80%" width="80%" alt="SQL steps"/>
+<img src="https://i.imgur.com/HTc7can.png" height="80%" width="80%" alt="SQL steps"/>
 <br />
 <br />
 Retrieve employees in Marketing:  <br/>
-<img src="https://i.imgur.com/eIOI8Ky.png" height="80%" width="80%" alt="SQL steps"/>
+<img src="https://i.imgur.com/qSFO6Kn.png" height="80%" width="80%" alt="SQL steps"/>
 <br />
 <br />
 Retrieve employees in Finance or Sales:  <br/>
@@ -40,7 +40,7 @@ Retrieve all employees not in IT:  <br/>
 <br />
 <br />
 Summary:  <br/>
-<img src="https://i.imgur.com/8BrSi2R.png" height="80%" width="80%" alt="SQL steps"/>
+<img src="https://i.imgur.com/62M6Op9.png" height="80%" width="80%" alt="SQL steps"/>
 </p>
 
 <!--
